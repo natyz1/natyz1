@@ -1,13 +1,13 @@
-<h2> Hello World, I'm Naty!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h3> Hello World, I'm Naty!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
 
  <p>📕 Studying ADS 1/5 - <strong>Uninter</strong></p>
  <p>👩🏻‍💻 Learning:</p>
+
   <div>
    <img align="center" alt="Ade-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
    <img align="center" alt="Ade-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
    <img align="center" alt="Ade-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />    
-  </div>       
-         
+  </div>            
 
 <br><hr><br>
 
